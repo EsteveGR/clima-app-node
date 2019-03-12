@@ -14,3 +14,17 @@ https://rapidapi.com/dev132/api/city-geo-location-lookup
 
 https://home.openweathermap.org/api_keys
 npm i axios
+
+git init
+git status
+---> crear fitxer .gitignore
+---> crear fitxer README.md
+git status 
+git add .
+git status
+git commit -m "Primer commit"
+git remote add origin https://github.com/EsteveGR/clima-app-node.git
+git push -u origin master
+git tag -a v1.0.0 -m "Primera versió"
+git tag
+git push --tags
